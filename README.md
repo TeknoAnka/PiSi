@@ -1,5 +1,5 @@
 # PiSi ![Maintenance](https://img.shields.io/maintenance/yes/2026) ![GitHub last commit](https://img.shields.io/github/last-commit/TeknoAnka/PiSi) ![GitHub](https://img.shields.io/github/license/TeknoAnka/PiSi)
-PiSi (Packages Installed Succesfully as Intended) is a package manager. In Turkish PISI means "kitty", and like a kitty, it is featureful and small.
+PiSi (Packages Installed Succesfully as Intended) is a package manager. In Turkish PiSi means "kitty", and like a kitty, it is featureful and small.
 
 Some of its distinctive features:
 
