@@ -1,8 +1,17 @@
-Pardus package repository
--------------------------
+PISI - Packages Installed Succesfully as Intended
 
-This is a clone of the current pardus/2011/devel Subversion
-repository. The repository is migrated to GIT using svn2git
-with correct author informations.
+PISI is a new package manager for the LupuS
+distribution. In Turkish PISI means "kitty", and
+like a kitty, it is featureful and small.
 
-For more information please visit: http://www.pardus.org.tr/en
+Some of its distinctive features:
+
+ - Implemented in python
+ - Efficient and small
+ - Package sources are written in XML and python
+ - Uses LZMA for a better compression ratio 
+ - Fast database access implemented with berkeley DB
+ - Integrates low-level and high-level package operations (dependency resolution)
+ - Framework approach to build applications and tools upon
+ - Comprehensive CLI and a user-friendly qt GUI (distributed separately)
+ - Extremely simple package construction
